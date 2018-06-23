@@ -1,5 +1,3 @@
-permalink: /:categories/:year/:month/:day/:title
-
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 
