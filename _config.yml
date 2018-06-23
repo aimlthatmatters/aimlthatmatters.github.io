@@ -1,0 +1,32 @@
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+
+title : AIML Research
+author :
+  name : Good Name
+  github : goodnamegoodname
+
+production_url : https://goodnamegoodname.github.io/AIML_Research
+
+markdown: kramdown
+
+JB :
+  version : 0.3.0
+  BASE_PATH : https://goodnamegoodname.github.io/AIML_Research
+
+  archive_path: nil
+  categories_path : nil
+  tags_path : nil
+  atom_path : nil
+  rss_path : nil
+
+  comments :
+    provider : false
+
+  analytics :
+    provider : false
+
+  sharing :
+    provider : false
