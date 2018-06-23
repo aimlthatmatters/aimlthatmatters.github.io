@@ -3,7 +3,6 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 
-title : AIML Research
 author :
   name : Good Name
   github : goodnamegoodname
